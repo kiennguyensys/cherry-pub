@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "nft",
+    "cherry-pool",
+    "simulation"
+]
